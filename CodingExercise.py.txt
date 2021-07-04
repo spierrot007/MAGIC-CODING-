@@ -1,0 +1,9 @@
+# converting kg to lb (pounds) 
+# comments to show your steps
+# we took kilograms variable into float function and input fucntion the we entered weight in kilograms as string
+# As formula we took the variable pounds multiply it's value to kilograms
+#Then we print message weigh in pounds
+
+User_in=float(input('enter weight in kilogram: '))
+pounds=2.205*kilograms
+print('weight in pounds:',pounds)
